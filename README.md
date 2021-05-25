@@ -1,2 +1,2 @@
-# Eclips
-Code voor de mirror
+# Eclipse
+Front-end resources

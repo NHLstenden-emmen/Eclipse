@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="697" viewBox="0 0 412 697">
+  <defs>
+    <clipPath id="clip-Vormentaal_2">
+      <rect width="412" height="697"/>
+    </clipPath>
+  </defs>
+  <g id="Vormentaal_2" data-name="Vormentaal 2" clip-path="url(#clip-Vormentaal_2)">
+    <path id="Path_26" data-name="Path 26" d="M452.551,290.422C574.073,272.983,623.305,101.2,623.305,101.2l11.326-193.85L346.106-120.168l-393.444,15.2L-57.472,251.976l10.134,102.908s23.322-22.9,90.007-38.132,81.418-62.718,184.166-59.817S331.029,307.862,452.551,290.422Z" transform="translate(-152.168 98.101)" fill="#d2cec5"/>
+    <path id="Path_2" data-name="Path 2" d="M452.551,290.422C574.073,272.983,623.305,101.2,623.305,101.2l11.326-193.85L346.106-120.168l-393.444,15.2L-57.472,251.976l10.134,102.908s23.322-22.9,90.007-38.132,81.418-62.718,184.166-59.817S331.029,307.862,452.551,290.422Z" transform="translate(-152.168 59.101)" fill="#f2c97d"/>
+  </g>
+</svg>
